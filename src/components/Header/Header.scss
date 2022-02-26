@@ -1,0 +1,34 @@
+.header_wrapper {
+  width: 100%;
+  height: 64px;
+  background-color: #5c524d;
+  padding: 0 24px;
+  box-sizing: border-box;
+  display: flex;
+  align-items: center;
+
+  @media (min-width: 768px) {
+    height: 73px;
+    padding: 0 32px;
+  }
+
+  @media (min-width: 1024px) {
+    height: 82px;
+    padding: 0 60px;
+  }
+
+  @media (min-width: 1200px) {
+    height: 91px;
+    padding: 0 100px;
+  }
+
+  @media (min-width: 1440px) {
+    height: 100px;
+    padding: 0 130px;
+  }
+
+  @media (min-width: 1600px) {
+    height: 109px;
+    padding: 0 160px;
+  }
+}

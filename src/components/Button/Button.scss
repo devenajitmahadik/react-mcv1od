@@ -1,0 +1,42 @@
+.event_card_cta_wrapper {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  padding: 20px;
+  border: 1px solid #fc732f;
+
+  &.no_border {
+    border: none;
+  }
+
+  &.justify_content_flex_end {
+    justify-content: flex-end;
+  }
+
+  &.bg_dark {
+    background-color: #fc732f;
+
+    .cta_title {
+      color: #fff;
+    }
+  }
+
+  &.disabled {
+    border-color: #757575;
+    cursor: not-allowed;
+
+    .cta_title {
+      color: #757575;
+    }
+  }
+
+  @media (min-width: 1200px) {
+    border-radius: 4px;
+    margin: 0px 24px;
+  }
+
+  .cta_title {
+    margin-left: 10px;
+  }
+}

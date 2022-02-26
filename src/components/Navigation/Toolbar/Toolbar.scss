@@ -1,0 +1,15 @@
+.toobar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+
+  .desktop_only {
+    display: none;
+
+    @media (min-width: 1200px) {
+      display: block;
+      width: 26.143%;
+    }
+  }
+}

@@ -1,0 +1,16 @@
+.input_wrapper {
+  margin-bottom: 10px;
+  .input {
+    border: 1px solid #857777;
+    padding: 10px;
+    width: 100%;
+    box-sizing: border-box;
+  }
+
+  .error {
+    color: red;
+    font-size: 12px;
+    line-height: 15px;
+    margin: 10px 0;
+  }
+}

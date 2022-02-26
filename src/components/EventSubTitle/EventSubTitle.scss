@@ -1,0 +1,19 @@
+.event_card_sub_title {
+  font-weight: normal;
+  color: #212121;
+  font-size: 18px;
+  line-height: 20px;
+  text-transform: capitalize;
+
+  .ticket_count {
+    color: #fc732f;
+  }
+
+  .bold {
+    font-weight: 700;
+  }
+
+  &.input_label {
+    margin-bottom: 10px;
+  }
+}

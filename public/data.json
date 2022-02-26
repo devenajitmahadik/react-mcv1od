@@ -1,0 +1,58 @@
+[
+  {
+    "id": "event-0",
+    "cardImage": "https://alvimurtaza.github.io/Interview-Front-end/images/l3-l4-engineer/event-1.png",
+    "cardTitle": "Understanding color theory: the color wheel and findi...",
+    "date": "21 Sep, 2020",
+    "availableTicketsCount": 0
+  },
+  {
+    "id": "event-1",
+    "cardImage": "https://alvimurtaza.github.io/Interview-Front-end/images/l3-l4-engineer/event-2.png",
+    "cardTitle": "RGD Design Thinkers",
+    "date": "21 Sep, 2020",
+    "availableTicketsCount": 11
+  },
+  {
+    "id": "event-2",
+    "cardImage": "https://alvimurtaza.github.io/Interview-Front-end/images/l3-l4-engineer/event-3.png",
+    "cardTitle": "What Design Can Do",
+    "date": "21 Sep, 2020",
+    "availableTicketsCount": 206
+  },
+  {
+    "id": "event-3",
+    "cardImage": "https://alvimurtaza.github.io/Interview-Front-end/images/l3-l4-engineer/event-4.png",
+    "cardTitle": "Perth UX Camp",
+    "date": "21 Sep, 2020",
+    "availableTicketsCount": 47
+  },
+  {
+    "id": "event-4",
+    "cardImage": "https://alvimurtaza.github.io/Interview-Front-end/images/l3-l4-engineer/event-5.png",
+    "cardTitle": "Sofia Design",
+    "date": "21 Sep, 2020",
+    "availableTicketsCount": 66
+  },
+  {
+    "id": "event-5",
+    "cardImage": "https://alvimurtaza.github.io/Interview-Front-end/images/l3-l4-engineer/event-6.png",
+    "cardTitle": "Design Indaba Conference",
+    "date": "21 Sep, 2020",
+    "availableTicketsCount": 84
+  },
+  {
+    "id": "event-6",
+    "cardImage": "https://alvimurtaza.github.io/Interview-Front-end/images/l3-l4-engineer/event-7.png",
+    "cardTitle": "TYPO Berlin",
+    "date": "21 Sep, 2020",
+    "availableTicketsCount": 4
+  },
+  {
+    "id": "event-7",
+    "cardImage": "https://alvimurtaza.github.io/Interview-Front-end/images/l3-l4-engineer/event-8.png",
+    "cardTitle": "AIGA Design Conference",
+    "date": "21 Sep, 2020",
+    "availableTicketsCount": 16
+  }
+]
